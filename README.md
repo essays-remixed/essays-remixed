@@ -10,7 +10,7 @@ As such, Essays-remixed is a collection of influentual and powerful essays, that
 
 ##WHO
 
-Essays-remixed is a project by [Hari Seldon](twitter.com/seldonshand), who speaks for others who wish to remain nameless. 
+Essays-remixed is a project by [Hari Seldon](http://twitter.com/seldonshand), who speaks for others who wish to remain nameless. 
 
 ##LICENSE 
 
